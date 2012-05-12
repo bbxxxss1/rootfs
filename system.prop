@@ -1,0 +1,4 @@
+android.keylayout.gpio-keys = /system/usr/keylayout/gpio-keys.kl
+sys.usb.config=adb
+persist.sys.usb.config=adb
+persist.service.adb.enable=1
